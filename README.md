@@ -1,3 +1,5 @@
 # Git Laboratory
 This is a feature branch.
-This will also cause a conflict.
+<<<<<<< HEAD
+This will now not cause a conflict.
+>>>>>>> conflict-branch
